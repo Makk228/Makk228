@@ -30,7 +30,7 @@
 ---
 
 ### Ключевой проект
-**ATM System — ASP.NET Core Web API**  
+**[Bank-Account-Management-System — ASP.NET Core Web API](https://github.com/Makk228/Bank-Account-Management-System)**  
 Backend-система банкомата с гексагональной архитектурой  
 (счета, транзакции, сессии, DI)
 
